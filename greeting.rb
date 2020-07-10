@@ -1,5 +1,7 @@
 def greeting
-  puts "Hello World"
+  puts "GO AWAY!!!"
 end
  
+greeting
+greeting
 greeting
